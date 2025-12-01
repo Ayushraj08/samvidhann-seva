@@ -47,26 +47,13 @@ Our mission is to **empower every Indian citizen with constitutional awareness**
 
 ## 🖼️ Screenshots
 
-> *(Screenshots will appear automatically when you add images inside this folder)*
+<img width="1892" height="880" alt="Screenshot 2025-12-01 210152" src="https://github.com/user-attachments/assets/1244570a-f960-4c02-b56d-b828bd131b57" />
+<img width="1897" height="847" alt="Screenshot 2025-12-01 210210" src="https://github.com/user-attachments/assets/50bb077b-ebd6-4bc5-a184-e9dfb81d971e" />
+<img width="1898" height="772" alt="Screenshot 2025-12-01 210222" src="https://github.com/user-attachments/assets/b96399a1-e8e5-4767-9218-eaca0fc9785a" />
+<img width="1896" height="930" alt="Screenshot 2025-12-01 210236" src="https://github.com/user-attachments/assets/46174720-0a75-4323-8711-d79cafb05ddf" />
+<img width="1830" height="715" alt="Screenshot 2025-12-01 210246" src="https://github.com/user-attachments/assets/6cdbe91c-3d7b-4909-9e6c-ff0ef7b25971" />
+<img width="1899" height="925" alt="Screenshot 2025-12-01 210317" src="https://github.com/user-attachments/assets/e8b03881-b7f2-4887-8ea8-e50bb4cd4b81" />
 
-![Home Page](screenshots/home.png)
-![Learn Constitution](screenshots/learn.png)
-![Games Section](screenshots/games.png)
-![Quiz Section](screenshots/quiz.png)
-
-📌 How to add screenshots later:
-
-Create a folder named screenshots
-
-Add images like:
-
-home.png
-
-learn.png
-
-games.png
-
-quiz.png
 ```md
 ⚙️ How to Run This Project Locally
 # 1️⃣ Clone the repository
