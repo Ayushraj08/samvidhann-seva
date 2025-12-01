@@ -54,6 +54,7 @@ Our mission is to **empower every Indian citizen with constitutional awareness**
 <img width="1830" height="715" alt="Screenshot 2025-12-01 210246" src="https://github.com/user-attachments/assets/6cdbe91c-3d7b-4909-9e6c-ff0ef7b25971" />
 <img width="1899" height="925" alt="Screenshot 2025-12-01 210317" src="https://github.com/user-attachments/assets/e8b03881-b7f2-4887-8ea8-e50bb4cd4b81" />
 
+
 ```md
 ⚙️ How to Run This Project Locally
 # 1️⃣ Clone the repository
