@@ -1,0 +1,119 @@
+# ============================
+# 🔹 LOG FILES
+# ============================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.pid
+*.seed
+*.pid.lock
+
+
+# ============================
+# 🔹 DEPENDENCIES
+# ============================
+node_modules/
+jspm_packages/
+bower_components/
+
+
+# ============================
+# 🔹 BUILD OUTPUTS
+# ============================
+dist/
+dist-ssr/
+build/
+out/
+.tmp/
+.temp/
+.cache/
+
+
+# ============================
+# 🔹 ENVIRONMENT FILES (SECRETS)
+# ============================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.local
+
+
+# ============================
+# 🔹 VITE & REACT
+# ============================
+.vite/
+.vite-cache/
+.eslintcache
+
+
+# ============================
+# 🔹 TYPESCRIPT
+# ============================
+*.tsbuildinfo
+
+
+# ============================
+# 🔹 TESTING
+# ============================
+coverage/
+.nyc_output/
+
+
+# ============================
+# 🔹 EDITOR CONFIGS
+# ============================
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.code-workspace
+
+
+# ============================
+# 🔹 OPERATING SYSTEM FILES
+# ============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+# ============================
+# 🔹 PACKAGE MANAGER LOCKS (OPTIONAL)
+# ============================
+# ✅ KEEP ONLY ONE BASED ON WHAT YOU USE
+# If using NPM → keep package-lock.json
+# If using Bun → keep bun.lockb
+# If using Yarn → keep yarn.lock
+
+# bun.lockb
+# yarn.lock
+
+
+# ============================
+# 🔹 MISC
+# ============================
+*.bak
+*.tmp
+*.old
+*.orig
+
+
+# ============================
+# 🔹 SCREENSHOTS (OPTIONAL)
+# ============================
+screenshots/*.psd
+screenshots/*.ai

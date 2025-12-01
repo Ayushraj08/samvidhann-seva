@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "statement": "Right to Education is a Fundamental Right under Article 21A",
+    "answer": true,
+    "explanation": "Article 21A makes free and compulsory education for children aged 6-14 a fundamental right."
+  },
+  {
+    "id": 2,
+    "statement": "The Constitution of India was adopted on 26th January 1950",
+    "answer": false,
+    "explanation": "The Constitution was adopted on 26th November 1949 and came into effect on 26th January 1950."
+  },
+  {
+    "id": 3,
+    "statement": "India has a Presidential form of government",
+    "answer": false,
+    "explanation": "India has a Parliamentary form of government with a Prime Minister as the head of government."
+  },
+  {
+    "id": 4,
+    "statement": "Article 32 is called the 'Heart and Soul of the Constitution'",
+    "answer": true,
+    "explanation": "Dr. Ambedkar called Article 32 (Right to Constitutional Remedies) the heart and soul of the Constitution."
+  },
+  {
+    "id": 5,
+    "statement": "The President of India is the Supreme Commander of Armed Forces",
+    "answer": true,
+    "explanation": "Article 53 makes the President the Supreme Commander of the Defence Forces of India."
+  },
+  {
+    "id": 6,
+    "statement": "Fundamental Duties were originally part of the Constitution",
+    "answer": false,
+    "explanation": "Fundamental Duties were added by the 42nd Amendment in 1976, based on recommendations of the Swaran Singh Committee."
+  },
+  {
+    "id": 7,
+    "statement": "Right to Property is still a Fundamental Right",
+    "answer": false,
+    "explanation": "Right to Property was removed as a Fundamental Right by the 44th Amendment in 1978 and made a Constitutional right under Article 300A."
+  },
+  {
+    "id": 8,
+    "statement": "Rajya Sabha members are directly elected by people",
+    "answer": false,
+    "explanation": "Rajya Sabha members are indirectly elected by the elected members of State Legislative Assemblies."
+  },
+  {
+    "id": 9,
+    "statement": "Article 19 guarantees six freedoms to citizens",
+    "answer": true,
+    "explanation": "Article 19 guarantees six freedoms including speech, assembly, association, movement, residence, and profession."
+  },
+  {
+    "id": 10,
+    "statement": "The Constitution can never be amended",
+    "answer": false,
+    "explanation": "Article 368 provides the procedure for amending the Constitution, making it a flexible document."
+  },
+  {
+    "id": 11,
+    "statement": "The Directive Principles are justiciable in court",
+    "answer": false,
+    "explanation": "Directive Principles are non-justiciable, meaning they cannot be enforced by courts, but are fundamental in governance."
+  },
+  {
+    "id": 12,
+    "statement": "The Indian Constitution is the longest written constitution in the world",
+    "answer": true,
+    "explanation": "The Indian Constitution is the world's longest written constitution with 448 articles in 25 parts and 12 schedules."
+  },
+  {
+    "id": 13,
+    "statement": "A person can be President of India only once",
+    "answer": false,
+    "explanation": "There is no limit on the number of terms a person can serve as President. They can be re-elected."
+  },
+  {
+    "id": 14,
+    "statement": "The Supreme Court has the power of Judicial Review",
+    "answer": true,
+    "explanation": "The Supreme Court can review and strike down laws and actions that violate the Constitution."
+  },
+  {
+    "id": 15,
+    "statement": "Emergency can be declared only by Parliament",
+    "answer": false,
+    "explanation": "Emergency is declared by the President, though it must be approved by Parliament within specific timeframes."
+  }
+]

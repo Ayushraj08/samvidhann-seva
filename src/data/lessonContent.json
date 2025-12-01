@@ -1,0 +1,557 @@
+{
+  "preamble": {
+    "level1": {
+      "title": "Preamble - The Introduction to Our Constitution",
+      "sections": [
+        {
+          "heading": "What is the Preamble?",
+          "content": "The Preamble is like the introduction to a storybook. It tells us what the Constitution is all about! Written by Pandit Jawaharlal Nehru, it describes the dreams and hopes our freedom fighters had for India.",
+          "example": "Just like your school has a motto (like 'Knowledge is Power'), our Constitution has the Preamble that tells everyone what India stands for!"
+        },
+        {
+          "heading": "Simple Words, Big Meanings",
+          "content": "**WE, THE PEOPLE** - The Constitution was made by ordinary Indians like you and me!\n\n**SOVEREIGN** - India is free! No other country tells us what to do.\n\n**SECULAR** - All religions are equal. You can follow any religion or no religion.\n\n**DEMOCRATIC** - People choose their leaders through voting.\n\n**REPUBLIC** - Our President is elected, not born into the job like a king.",
+          "remember": "The Preamble was adopted on 26th November 1949. We celebrate this as Constitution Day!"
+        },
+        {
+          "heading": "Why is it Important?",
+          "content": "The Preamble is like a promise India made to all its citizens. It promises justice, liberty, equality, and fraternity (brotherhood) to everyone.",
+          "example": "When your teacher treats all students equally, when you can freely speak your mind in class, when everyone respects each other - that's the Preamble in action!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "The Preamble is the _____ of the Constitution.",
+          "options": ["Introduction", "Last page", "Middle part", "Cover"],
+          "correct": 0
+        },
+        {
+          "question": "Which word means all religions are treated equally?",
+          "options": ["Sovereign", "Secular", "Democratic", "Republic"],
+          "correct": 1
+        }
+      ]
+    },
+    "level2": {
+      "title": "Preamble - The Soul and Philosophy of the Constitution",
+      "sections": [
+        {
+          "heading": "Understanding the Preamble",
+          "content": "The Preamble embodies the fundamental philosophy and values of the Constitution. Drafted by Jawaharlal Nehru as the 'Objectives Resolution', it was adopted on 26th November 1949 and represents the aspirations of the people of India.",
+          "example": "Think of the Preamble as the DNA of our Constitution - it contains the core values that run through every Article and provision!"
+        },
+        {
+          "heading": "Key Terms Explained",
+          "content": "**WE, THE PEOPLE OF INDIA** - Popular sovereignty; power flows from the people\n\n**SOVEREIGN** - India has supreme power, both internally and externally. No foreign authority can dictate terms.\n\n**SOCIALIST** - (Added in 1976) State controls key resources; wealth should be distributed fairly among all citizens.\n\n**SECULAR** - (Added in 1976) State has no official religion; treats all religions equally; freedom to practice any faith.\n\n**DEMOCRATIC** - Government is elected by people through periodic elections; accountable to citizens.\n\n**REPUBLIC** - Head of State (President) is elected for a fixed term, not a hereditary monarch.",
+          "keyPoints": [
+            "Words 'Socialist', 'Secular', and 'Integrity' were added by 42nd Amendment (1976)",
+            "Preamble has been amended only once",
+            "Supreme Court ruled Preamble is part of Constitution (Kesavananda Bharati case, 1973)"
+          ]
+        },
+        {
+          "heading": "The Four Pillars: JUSTICE, LIBERTY, EQUALITY, FRATERNITY",
+          "content": "**JUSTICE** - Social, Economic, and Political\n- Social: No discrimination based on birth, caste, religion\n- Economic: Equal pay for equal work, fair distribution of wealth\n- Political: Equal voting rights, equal opportunity in politics\n\n**LIBERTY** - Of thought, expression, belief, faith, and worship\n- Freedom to think and express ideas\n- Freedom to follow any religion\n- Freedom to live with dignity\n\n**EQUALITY** - Of status and opportunity\n- Equal before law (Article 14)\n- No discrimination (Article 15)\n- Equal opportunity in public employment (Article 16)\n\n**FRATERNITY** - Assuring dignity of individual and unity of Nation\n- Promotes sense of brotherhood\n- Protects individual dignity\n- Maintains national unity",
+          "example": "**Real-life example:** When the government provides mid-day meals in schools (EQUALITY + JUSTICE), allows students to wear religious symbols (LIBERTY + SECULAR), and celebrates all festivals equally (FRATERNITY + SECULAR) - these are Preamble values in action!"
+        },
+        {
+          "heading": "Contemporary Relevance",
+          "content": "The Preamble guides Supreme Court interpretations:\n\n**Recent Cases:**\n- **Right to Privacy (2017):** Preamble's 'dignity' helped establish privacy as fundamental right\n- **Reservation policies:** Based on Preamble's social justice goals\n- **Environmental protection:** Courts cite Preamble's welfare objectives",
+          "remember": "The Preamble is not just words - it's a living document that influences how our laws are made and interpreted today!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "When were the words 'Socialist' and 'Secular' added to the Preamble?",
+          "options": ["1950", "1976", "1984", "2002"],
+          "correct": 1
+        },
+        {
+          "question": "Which case established that the Preamble is part of the Constitution?",
+          "options": ["Golaknath case", "Kesavananda Bharati case", "Minerva Mills case", "Maneka Gandhi case"],
+          "correct": 1
+        }
+      ]
+    },
+    "level3": {
+      "title": "Preamble - Constitutional Philosophy and Jurisprudence",
+      "sections": [
+        {
+          "heading": "Constitutional Significance and Legal Status",
+          "content": "The Preamble represents the Grundnorm or basic norm of the Constitution. Originally proposed as the 'Objectives Resolution' by Jawaharlal Nehru on December 13, 1946, it encapsulates the philosophy, objectives, and ideals that the Constitution seeks to achieve.\n\n**Legal Status Evolution:**\n- **Berubari Union case (1960):** Supreme Court held Preamble is not part of the Constitution\n- **Kesavananda Bharati case (1973):** Overruled Berubari; held Preamble is part of the Constitution and can be amended\n- **However:** It is not enforceable in courts of law; it is not a source of substantive power",
+          "example": "**Competitive Exam Tip:** The Preamble acts as the Constitution's 'key' to interpretation. When constitutional provisions are ambiguous, courts refer to the Preamble to determine the true intent of the Constitution."
+        },
+        {
+          "heading": "Detailed Analysis of Constitutional Values",
+          "content": "**SOVEREIGN:**\n- Internal sovereignty: Parliament can legislate on any matter (subject to constitutional limitations)\n- External sovereignty: Not subject to control of any foreign power\n- India can cede territory (Berubari case) with constitutional amendment\n\n**SOCIALIST:**\n- Democratic socialism, not communist model\n- Mixed economy approach\n- State intervention in economy for welfare\n- Implementation: MGNREGA, PDS, Social Security schemes\n\n**SECULAR:**\n- Positive secularism (state involvement in religious reform)\n- Sarva Dharma Sambhava (equal respect for all religions)\n- vs. Western secularism (complete separation)\n- **Case law:** S.R. Bommai case (1994) - secularism is part of basic structure\n\n**DEMOCRATIC:**\n- Representative democracy through universal adult franchise\n- Parliamentary system with responsible government\n- Free and fair elections conducted by independent Election Commission\n- **Case study:** India - world's largest democracy with 900+ million eligible voters\n\n**REPUBLIC:**\n- Head of State is elected (President) for fixed term\n- Merit-based qualification, not birth\n- All public offices open to every citizen",
+          "keyPoints": [
+            "42nd Amendment (1976) added 'Socialist', 'Secular', 'Integrity'",
+            "Preamble can be amended under Article 368, but basic structure cannot be altered",
+            "It declares Constitution's date of adoption: 26th November 1949",
+            "Came into force on: 26th January 1950 (Republic Day)"
+          ]
+        },
+        {
+          "heading": "The Fourfold Objectives: Justice, Liberty, Equality, Fraternity",
+          "content": "**JUSTICE - Social, Economic, Political:**\n\n*Social Justice:*\n- Rule of law and equal protection (Articles 14-16)\n- Abolition of untouchability (Article 17)\n- Abolition of titles (Article 18)\n- **Implementation:** Reservation policies, SC/ST Act, Right to Education\n\n*Economic Justice:*\n- DPSPs mandate equitable distribution of resources\n- Article 39: Equal pay for equal work\n- **Modern application:** Gender pay gap litigation, minimum wage laws\n\n*Political Justice:*\n- Universal adult franchise (Article 326)\n- Right to contest elections\n- **Contemporary issue:** Electoral reforms, criminalization of politics\n\n**LIBERTY - Of thought, expression, belief, faith, worship:**\n- Articles 19-22 guarantee fundamental freedoms\n- Reasonable restrictions under Article 19(2)\n- **Landmark cases:** \n  * Shreya Singhal v. UOI (2015) - struck down Section 66A IT Act\n  * Romesh Thappar case (1950) - freedom of press\n\n**EQUALITY - Of status and opportunity:**\n- Legal equality: Article 14\n- Social equality: Article 15\n- Equality in public employment: Article 16\n- **Recent developments:** Reservation in promotions debate, economic reservation (2019)\n\n**FRATERNITY - Dignity of individual and unity of Nation:**\n- Promotes common brotherhood transcending barriers\n- **Article 51A:** Fundamental Duties emphasize fraternity\n- **Case law:** NALSA judgment (2014) - dignity of transgender persons",
+          "example": "**UPSC Mains Application:** In 2020, during COVID-19 pandemic, the government invoked all Preamble values:\n- JUSTICE: Financial packages for poor\n- LIBERTY: Balanced lockdown with essential freedoms\n- EQUALITY: Universal free vaccination\n- FRATERNITY: 'We shall overcome together' messaging"
+        },
+        {
+          "heading": "Comparative Constitutional Study",
+          "content": "**Borrowed Features:**\n- **Liberty, Equality, Fraternity:** French Revolution slogan\n- **Justice:** American Constitution\n- **Republic:** French model\n- **Democratic:** British parliamentary system\n\n**Unique Indian Contribution:**\n- Combination of 'Sovereign Socialist Secular Democratic Republic'\n- Positive secularism (unique to India)\n- Fraternity with dual focus: dignity + unity\n\n**Modern Constitutional Debates:**\n- Whether 'Socialist' limits economic reforms\n- Uniform Civil Code vs. Secularism debate\n- Federal vs. Unitary features balance\n- Direct democracy elements (referendum) - should they be added?",
+          "remember": "For competitive exams, remember: Preamble is amendable BUT its basic structure is NOT. This distinction was crucial in Kesavananda Bharati case (1973)."
+        },
+        {
+          "heading": "Contemporary Applications & Case Studies",
+          "content": "**Supreme Court Interpretations:**\n\n1. **Right to Privacy (K.S. Puttaswamy case, 2017)**\n   - Court invoked Preamble's 'dignity' and 'liberty'\n   - Declared privacy as fundamental right under Article 21\n   - Impact: Struck down parts of Aadhaar Act\n\n2. **Basic Structure Doctrine (Kesavananda Bharati, 1973)**\n   - Preamble's objectives part of basic structure\n   - Parliament cannot amend Constitution to destroy these ideals\n   - Impact: Limited Parliament's amending power\n\n3. **Secularism Cases:**\n   - S.R. Bommai (1994): Secularism = basic feature\n   - Hindutva cases (1995): Religion and politics debate\n   - Triple Talaq case (2017): Gender justice vs. religious freedom\n\n4. **Social Justice Implementation:**\n   - Indra Sawhney case (1992): 50% reservation ceiling\n   - 103rd Amendment (2019): 10% EWS reservation\n   - Debate: Merit vs. social justice balance",
+          "keyPoints": [
+            "Preamble guides judicial interpretation of ambiguous provisions",
+            "Used to test validity of laws against constitutional values",
+            "Not source of substantive rights, but interpretative tool",
+            "Reflects Constitution's basic structure and core philosophy"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which amendment added 'Socialist', 'Secular', and 'Integrity' to the Preamble?",
+          "options": ["24th Amendment", "42nd Amendment", "44th Amendment", "52nd Amendment"],
+          "correct": 1
+        },
+        {
+          "question": "In which case did the Supreme Court hold that the Preamble is part of the Constitution?",
+          "options": ["Berubari Union case", "Kesavananda Bharati case", "Golaknath case", "Minerva Mills case"],
+          "correct": 1
+        },
+        {
+          "question": "What type of secularism does India follow?",
+          "options": ["Negative secularism", "Positive secularism", "Absolute secularism", "Religious secularism"],
+          "correct": 1
+        }
+      ]
+    },
+    "level4": {
+      "title": "Preamble - The Constitution's Promise to Every Citizen",
+      "sections": [
+        {
+          "heading": "What the Preamble Means for You",
+          "content": "The Preamble is not just legal jargon - it's a promise the Constitution makes to every Indian citizen. It declares that India belongs to its people and commits to ensuring justice, liberty, equality, and brotherhood for all.\n\n**Why Should You Care?**\n- It defines what kind of nation India aims to be\n- It protects your rights as a citizen\n- It holds the government accountable to core values\n- It gives you legal grounds to challenge unjust laws",
+          "example": "**Real-life impact:** When you see news about reservation policies, secularism debates, or freedom of speech issues - these are all rooted in Preamble values. Understanding the Preamble helps you make informed decisions as a voter and citizen."
+        },
+        {
+          "heading": "The Big Words, Simplified",
+          "content": "**SOVEREIGN** - India is independent\n- No foreign country can tell India what to do\n- India makes its own laws and decisions\n- *Your benefit:* National policies serve Indian interests first\n\n**SOCIALIST** - Wealth should be shared fairly\n- Government works to reduce inequality\n- Basic needs like education, healthcare should be accessible\n- *Your benefit:* Government schemes, subsidies, and welfare programs\n\n**SECULAR** - All religions are equal\n- Government doesn't favor any religion\n- You're free to follow any faith or none\n- *Your benefit:* Religious freedom, no state-imposed religion\n\n**DEMOCRATIC** - People have the power\n- You elect your representatives\n- Government is accountable to citizens\n- *Your benefit:* Your vote matters, you can change governments\n\n**REPUBLIC** - Leaders are elected, not inherited\n- Even a common citizen can become President\n- Merit matters, not birth or family\n- *Your benefit:* Equal opportunity for all citizens",
+          "keyPoints": [
+            "'Socialist' and 'Secular' were added in 1976 (not in original 1950 Constitution)",
+            "The Preamble promises JUSTICE, LIBERTY, EQUALITY, and FRATERNITY",
+            "These aren't just words - courts use them to interpret laws"
+          ]
+        },
+        {
+          "heading": "How the Preamble Protects You Daily",
+          "content": "**JUSTICE in your life:**\n- *Social:* Laws against caste discrimination, sexual harassment\n- *Economic:* Minimum wage laws, consumer protection\n- *Political:* Your right to vote, contest elections\n\n**LIBERTY in your life:**\n- Freedom to choose your career\n- Freedom to express opinions online (within reasonable limits)\n- Freedom to practice your religion\n- Freedom to move anywhere in India\n\n**EQUALITY in your life:**\n- Equal treatment in government offices\n- No discrimination in jobs based on caste/religion\n- Equal access to public spaces like parks, libraries\n- Same laws apply to rich and poor alike\n\n**FRATERNITY in your life:**\n- Respect for diversity - different languages, cultures, religions\n- Unity despite differences\n- Dignity of every individual",
+          "example": "**Recent real example (2020-2023):**\n- COVID-19 vaccine was provided free to all citizens (EQUALITY + SOCIALIST)\n- You could express concerns about lockdown policies online (LIBERTY)\n- Courts could question government actions (DEMOCRATIC)\n- No discrimination in treatment based on religion/caste (SECULAR + JUSTICE)"
+        },
+        {
+          "heading": "Your Rights Come from the Preamble",
+          "content": "**When Preamble Values Were Applied:**\n\n**Privacy as a Right (2017):**\n- Supreme Court said your privacy is protected because Preamble promises 'dignity'\n- This limited how government can collect your Aadhaar data\n\n**Free Speech Online:**\n- Section 66A of IT Act was struck down (2015) because it violated 'liberty'\n- You can criticize government online (with reasonable limits)\n\n**Reservation Policies:**\n- Based on Preamble's promise of 'social justice'\n- Aims to correct historical disadvantages\n\n**Right to Education:**\n- Every child's right to free education comes from 'equality' in Preamble\n- RTE Act (2009) made this a reality",
+          "remember": "The Preamble is like the Constitution's mission statement. When in doubt about what a law means or whether it's fair, look back to these core values!"
+        },
+        {
+          "heading": "Common Citizen Questions Answered",
+          "content": "**Q: Can the Preamble be changed?**\nA: Yes, it was amended in 1976. But the Supreme Court said its core philosophy (basic structure) cannot be destroyed.\n\n**Q: Is 'Socialist' still relevant when India has private companies?**\nA: Indian 'socialism' means mixed economy - both government and private sector coexist. Focus is on reducing inequality, not banning private business.\n\n**Q: Does 'Secular' mean being anti-religion?**\nA: No! It means government respects all religions equally. You're free to practice your faith. Government just won't favor one religion over others.\n\n**Q: If I feel my rights are violated, can I use the Preamble?**\nA: Preamble itself isn't enforceable in court, but it guides how judges interpret your Fundamental Rights (which ARE enforceable).\n\n**Q: What's the difference between DEMOCRATIC and REPUBLIC?**\nA: DEMOCRATIC = people elect leaders. REPUBLIC = even the head of state (President) is elected, not born into the role.",
+          "keyPoints": [
+            "Preamble = Constitution's promise to citizens",
+            "It guides all laws and policies in India",
+            "Core values: JUSTICE, LIBERTY, EQUALITY, FRATERNITY",
+            "Courts use it to interpret your rights"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which words were added to the Preamble in 1976?",
+          "options": ["Socialist and Secular", "Democratic and Republic", "Justice and Liberty", "Sovereign and Unity"],
+          "correct": 0
+        },
+        {
+          "question": "What does 'Secular' mean in the Indian context?",
+          "options": ["Government is against religion", "Only one religion is allowed", "All religions are treated equally", "Religion is banned"],
+          "correct": 2
+        }
+      ]
+    }
+  },
+  "fundamental-rights": {
+    "level1": {
+      "title": "Fundamental Rights - Your Basic Rights as a Citizen",
+      "sections": [
+        {
+          "heading": "What are Fundamental Rights?",
+          "content": "Fundamental Rights are special rights that every Indian citizen has. Nobody can take these away from you - not even the government! They protect you and help you live freely.",
+          "example": "Think of Fundamental Rights as your superhero shield! They protect you from unfair treatment and give you freedom to live your life."
+        },
+        {
+          "heading": "The Six Main Rights",
+          "content": "**1. Right to Equality** - Everyone is equal. No discrimination!\n\n**2. Right to Freedom** - Freedom to speak, move, and live anywhere in India\n\n**3. Right against Exploitation** - Nobody can force you to work or treat you badly\n\n**4. Right to Freedom of Religion** - Follow any religion you want\n\n**5. Cultural and Educational Rights** - Protect your language and culture\n\n**6. Right to Constitutional Remedies** - If someone violates your rights, go to court!",
+          "remember": "Dr. Ambedkar called Article 32 (Right to Constitutional Remedies) the 'Heart and Soul' of the Constitution!"
+        },
+        {
+          "heading": "Examples from Your Life",
+          "content": "**At School:**\n- Right to Education (Article 21A) - Every child 6-14 years gets free education\n- No discrimination in admission\n\n**At Home:**\n- Child labor is banned - children can't be forced to work in factories\n- Freedom to follow any religion\n\n**In Public:**\n- Can't be stopped from entering parks, temples, or public places\n- Everyone must be treated equally",
+          "example": "If your school refuses admission because of your caste or religion, that violates your Right to Equality!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many Fundamental Rights do we have?",
+          "options": ["Five", "Six", "Seven", "Eight"],
+          "correct": 1
+        },
+        {
+          "question": "Which Article guarantees free education to children?",
+          "options": ["Article 19", "Article 21", "Article 21A", "Article 32"],
+          "correct": 2
+        }
+      ]
+    },
+    "level2": {
+      "title": "Fundamental Rights - Constitutional Guarantees",
+      "sections": [
+        {
+          "heading": "Origin and Importance",
+          "content": "Fundamental Rights were incorporated in Part III (Articles 12-35) of the Constitution, inspired by the US Bill of Rights. They are called 'fundamental' because they are essential for the all-round development of individuals and form the bedrock of Indian democracy.\n\n**Why Important:**\n- Protect individual liberty\n- Limit government power\n- Ensure dignity of citizens\n- Enforceable through courts",
+          "example": "Think of Fundamental Rights as a contract between citizens and the state - the state promises to protect these rights, and citizens can approach courts if the promise is broken."
+        },
+        {
+          "heading": "The Six Fundamental Rights (Detailed)",
+          "content": "**1. Right to Equality (Articles 14-18)**\n- Article 14: Equality before law\n- Article 15: No discrimination on grounds of religion, race, caste, sex, or place of birth\n- Article 16: Equal opportunity in public employment\n- Article 17: Abolition of untouchability\n- Article 18: Abolition of titles (except military and academic)\n\n**2. Right to Freedom (Articles 19-22)**\n- Article 19: Six freedoms (speech, assembly, association, movement, residence, profession)\n- Article 20: Protection in conviction of offenses\n- Article 21: Protection of life and personal liberty\n- Article 21A: Right to education (6-14 years)\n- Article 22: Protection against arrest and detention\n\n**3. Right against Exploitation (Articles 23-24)**\n- Article 23: Prohibition of human trafficking and forced labor\n- Article 24: Prohibition of child labor (below 14 years in hazardous work)\n\n**4. Right to Freedom of Religion (Articles 25-28)**\n- Article 25: Freedom of conscience and religion\n- Article 26: Freedom to manage religious affairs\n- Article 27: Freedom from paying taxes for promotion of any religion\n- Article 28: Freedom from religious instruction in educational institutions\n\n**5. Cultural and Educational Rights (Articles 29-30)**\n- Article 29: Protection of language, script, and culture of minorities\n- Article 30: Right of minorities to establish educational institutions\n\n**6. Right to Constitutional Remedies (Article 32)**\n- Right to move Supreme Court for enforcement of Fundamental Rights\n- Supreme Court can issue writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto",
+          "keyPoints": [
+            "Originally 7 rights; Right to Property removed in 1978 (now legal right under Article 300A)",
+            "Rights are not absolute - reasonable restrictions can be imposed",
+            "Can be suspended during Emergency (except Articles 20 and 21)"
+          ]
+        },
+        {
+          "heading": "Real-World Applications",
+          "content": "**Recent Cases:**\n\n**Right to Privacy (2017)**\n- Supreme Court declared privacy as fundamental right under Article 21\n- Impact: Limits on Aadhaar usage, data protection laws\n\n**Shreya Singhal case (2015)**\n- Section 66A of IT Act struck down\n- Protected freedom of speech online\n\n**Vishaka case (1997)**\n- Guidelines against sexual harassment at workplace\n- Led to POSH Act 2013\n\n**Right to Education Act (2009)**\n- Made education a fundamental right\n- 25% seats in private schools reserved for economically weaker sections",
+          "example": "During COVID-19, courts examined whether lockdowns violated Right to Freedom of Movement (Article 19) - they balanced this right with Right to Life (Article 21) and health concerns."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which Article is called the 'Heart and Soul of the Constitution'?",
+          "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+          "correct": 3
+        },
+        {
+          "question": "Right to Property was removed by which Amendment?",
+          "options": ["42nd Amendment", "44th Amendment", "52nd Amendment", "61st Amendment"],
+          "correct": 1
+        }
+      ]
+    },
+    "level3": {
+      "title": "Fundamental Rights - Part III of the Constitution",
+      "sections": [
+        {
+          "heading": "Constitutional Framework and Evolution",
+          "content": "Fundamental Rights constitute Part III (Articles 12-35) of the Constitution, representing the Charter of Rights for Indian citizens. They embody the ideals of liberty, equality, and fraternity enshrined in the Preamble.\n\n**Historical Context:**\n- Inspired by US Bill of Rights and English Magna Carta\n- Drafted by Sardar Vallabhbhai Patel-led Fundamental Rights Sub-Committee\n- Originally 7 rights; Right to Property deleted by 44th Amendment (1978)\n\n**Legal Nature:**\n- Justiciable (enforceable through courts)\n- Can be amended by Parliament (but not basic structure)\n- Subject to reasonable restrictions\n- Available against State action (Article 12 defines 'State')\n- Some rights available to citizens only, some to all persons",
+          "example": "**Competitive Exam Insight:** Article 13 - Laws inconsistent with or in derogation of Fundamental Rights shall be void. This is the basis of judicial review in India."
+        },
+        {
+          "heading": "Comprehensive Analysis of Each Right",
+          "content": "**RIGHT TO EQUALITY (Articles 14-18):**\n\n*Article 14: Equality before law and equal protection of laws*\n- Borrowed from UK (rule of law) and USA (equal protection)\n- Prohibition of arbitrariness\n- **Case law:** State of West Bengal v. Anwar Ali Sarkar (1952)\n- Reasonable classification is permitted\n\n*Article 15: Prohibition of discrimination*\n- Five grounds: religion, race, caste, sex, place of birth\n- Exceptions: Special provisions for women, children, SC/ST, OBC\n- **Modern application:** Gender equality, anti-discrimination laws\n\n*Article 16: Equality in public employment*\n- No discrimination in government jobs\n- Exceptions: Residence requirement, reservation for SC/ST/OBC\n- **Debate:** Reservation in promotions\n\n*Article 17: Abolition of untouchability*\n- Practice of untouchability made punishable offense\n- **Implementation:** Protection of Civil Rights Act, 1955\n\n*Article 18: Abolition of titles*\n- No titles except military and academic\n- Indians cannot accept foreign titles without President's permission\n- **Exception:** Bharat Ratna, Padma awards are honors, not titles",
+          "keyPoints": [
+            "Article 14 applies to all persons; Article 15 applies to citizens only",
+            "Equality doesn't mean absolute equality - reasonable classification permitted",
+            "Article 15(3) allows positive discrimination for women and children",
+            "103rd Amendment (2019): 10% EWS reservation"
+          ]
+        },
+        {
+          "heading": "Right to Freedom - Detailed Analysis",
+          "content": "**Article 19: Six Freedoms (Citizens only)**\n\n1. *Freedom of speech and expression*\n   - Includes press freedom\n   - Restrictions: Sovereignty, security, public order, decency, morality, contempt of court, defamation, incitement\n   - **Cases:** Romesh Thappar (1950), Shreya Singhal (2015)\n\n2. *Freedom to assemble peacefully*\n   - Without arms\n   - Restrictions: Sovereignty, public order\n\n3. *Freedom to form associations*\n   - Trade unions, political parties, companies\n   - Restrictions: Sovereignty, public order, morality\n\n4. *Freedom to move throughout India*\n   - Restrictions: General public interests, SC/ST protection\n\n5. *Freedom to reside and settle*\n   - Restrictions: General public interests, SC/ST protection\n   - **J&K exception removed:** After Article 370 abrogation (2019)\n\n6. *Freedom to practice any profession*\n   - Restrictions: Public interest, qualifications\n   - State can carry on exclusive trade/business\n\n**Article 20: Protection against ex post facto laws**\n- No conviction except for violation of law in force\n- No double jeopardy\n- No self-incrimination\n- **Cannot be suspended even during Emergency**\n\n**Article 21: Right to life and personal liberty**\n- Most expansive right through judicial interpretation\n- Procedure established by law + due process (Maneka Gandhi case, 1978)\n- **Derived rights:** Right to privacy, livelihood, dignity, clean environment, speedy trial, free legal aid, etc.\n\n**Article 21A: Right to education**\n- Added by 86th Amendment (2002)\n- Free and compulsory education for children 6-14 years\n- **Implementation:** RTE Act, 2009\n\n**Article 22: Protection against arrest and detention**\n- Right to be informed of grounds of arrest\n- Right to consult lawyer\n- Production before magistrate within 24 hours\n- **Exceptions:** Preventive detention laws",
+          "example": "**UPSC Relevance:** Article 21 has been interpreted to include:\n- Right to privacy (Puttaswamy case, 2017)\n- Right to sleep (Ramlila Maidan case, 2012)\n- Right to reputation (Subramanian Swamy v. UOI, 2016)\n- Right to die with dignity (Common Cause v. UOI, 2018 - passive euthanasia)"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which amendment removed the Right to Property from Fundamental Rights?",
+          "options": ["42nd Amendment", "44th Amendment", "46th Amendment", "52nd Amendment"],
+          "correct": 1
+        },
+        {
+          "question": "In which case was the Right to Privacy recognized as a Fundamental Right?",
+          "options": ["Maneka Gandhi case", "Kesavananda Bharati case", "K.S. Puttaswamy case", "Golaknath case"],
+          "correct": 2
+        },
+        {
+          "question": "Which Article provides Right to Constitutional Remedies?",
+          "options": ["Article 14", "Article 19", "Article 32", "Article 226"],
+          "correct": 2
+        }
+      ]
+    },
+    "level4": {
+      "title": "Fundamental Rights - Your Constitutional Shield",
+      "sections": [
+        {
+          "heading": "What Fundamental Rights Mean for You",
+          "content": "Fundamental Rights are not just legal provisions - they are the Constitution's promise to protect your dignity, freedom, and equality. They define what the government CANNOT do to you and what protections you MUST have.\n\n**Why Should You Care:**\n- They protect you from arbitrary government action\n- They give you freedom to live life on your terms (within reasonable limits)\n- They ensure equal treatment regardless of your background\n- You can go to court if these rights are violated",
+          "example": "**Real-life:** If a police officer arrests you without telling you why, or if your employer discriminates against you because of your religion, or if someone prevents you from voting - all these violate your Fundamental Rights."
+        },
+        {
+          "heading": "Your Rights in Simple Terms",
+          "content": "**1. RIGHT TO EQUALITY**\n*What it means:* Everyone is equal before the law\n- Police can't treat rich and poor differently\n- No discrimination in government jobs based on caste/religion\n- Untouchability is a crime\n- *Your benefit:* Fair treatment, equal opportunities\n\n**2. RIGHT TO FREEDOM**\n*What it means:* Six important freedoms\n- Speak your mind (including criticism of government)\n- Peacefully protest\n- Form organizations/unions\n- Move and live anywhere in India\n- Choose any profession\n- *Your benefit:* Live freely, express opinions, choose your path\n\n**3. RIGHT AGAINST EXPLOITATION**\n*What it means:* No one can treat you like a slave\n- Forced labor is illegal\n- Human trafficking is a crime\n- Children under 14 can't work in dangerous jobs\n- *Your benefit:* Protection from exploitation, child labor ban\n\n**4. RIGHT TO FREEDOM OF RELIGION**\n*What it means:* Practice any religion you want\n- Follow, practice, and propagate your religion\n- Government won't force religion on you\n- No religious tax\n- *Your benefit:* Religious freedom, no forced conversions\n\n**5. CULTURAL AND EDUCATIONAL RIGHTS**\n*What it means:* Protect your language and culture\n- Minorities can run their own schools\n- Preserve your cultural identity\n- *Your benefit:* Cultural diversity protection\n\n**6. RIGHT TO CONSTITUTIONAL REMEDIES**\n*What it means:* Can approach Supreme Court if rights violated\n- Courts will protect your rights\n- *Your benefit:* Legal recourse, access to justice",
+          "keyPoints": [
+            "These rights can be enforced in court - they're not just promises",
+            "They apply against government and public authorities",
+            "They have reasonable restrictions (can't shout 'fire' in theater)",
+            "You can challenge any law that violates these rights"
+          ]
+        },
+        {
+          "heading": "Recent Real-World Examples (2015-2024)",
+          "content": "**Digital Rights and Privacy (2017-2024):**\n- **What happened:** Supreme Court declared privacy a fundamental right\n- **Impact on you:** Limits on Aadhaar mandate, data protection laws coming, companies can't misuse your data\n- **Recent:** WhatsApp privacy policy challenged (2021)\n\n**Freedom of Speech Online (2015):**\n- **What happened:** Section 66A (arrest for offensive posts) struck down\n- **Impact on you:** More freedom to express online, can't be arrested for social media posts (within limits)\n\n**Same-Sex Rights (2018):**\n- **What happened:** Section 377 partially struck down\n- **Impact:** Decriminalized homosexuality, recognized LGBTQ+ rights under Article 21\n\n**Right to be Forgotten (2017-ongoing):**\n- **What's happening:** Courts considering if you can delete your online history\n- **Future impact:** More control over your digital footprint\n\n**COVID-19 and Rights (2020-2022):**\n- **Lockdowns:** Balanced Right to Life (health) vs Right to Freedom (movement)\n- **Vaccination:** Debated whether mandatory vaccination violates rights\n- **Result:** Courts said reasonable restrictions for public health acceptable\n\n**Workers' Rights (2020-2023):**\n- **Labor code changes:** Debated impact on right to form unions\n- **Gig workers:** Pushing for rights - delivery riders, Uber drivers\n- **Status:** Evolving area",
+          "example": "**Practical scenario:** During COVID-19, you couldn't move freely (lockdown), but this was seen as reasonable restriction under Article 19 to protect Article 21 (Right to Life) - public health trumped individual freedom temporarily."
+        },
+        {
+          "heading": "How to Exercise Your Rights",
+          "content": "**If Your Rights Are Violated:**\n\n**Step 1: Identify the violation**\n- Is it government action? (Fundamental Rights protect against State)\n- Which specific right is violated?\n- Do you have evidence?\n\n**Step 2: Try local remedies first**\n- File complaint with relevant authority\n- Approach local Ombudsman\n- Try mediation/grievance redressal\n\n**Step 3: Legal action**\n- File Writ Petition in High Court (Article 226)\n- Or directly to Supreme Court (Article 32)\n- Approach legal aid services if you can't afford lawyer\n- NGOs and activists can help\n\n**Types of Writs (Legal Remedies):**\n- **Habeas Corpus:** If illegally detained\n- **Mandamus:** Force authority to do their duty\n- **Prohibition:** Stop authority from exceeding power\n- **Certiorari:** Quash illegal order\n- **Quo Warranto:** Challenge someone's right to hold office",
+          "keyPoints": [
+            "Legal aid is available for poor people (free lawyers)",
+            "Public Interest Litigation (PIL) - anyone can file for public issues",
+            "No fees for fundamental rights cases in Supreme Court",
+            "Fast-track courts for specific cases"
+          ]
+        },
+        {
+          "heading": "Common Questions from Citizens",
+          "content": "**Q: Can I say anything against the government?**\nA: Yes, but within limits. You can criticize, but not incite violence, spread fake news causing panic, or defame individuals. Hate speech is not protected.\n\n**Q: Can my employer fire me for my social media posts?**\nA: Fundamental Rights primarily protect against State action, not private employers. However, labor laws and service contracts may protect you.\n\n**Q: Is Aadhaar mandatory? Doesn't it violate privacy?**\nA: After 2019 SC judgment, Aadhaar is mandatory only for PAN, income tax, government benefits. Not mandatory for bank accounts, mobile phones, school admissions.\n\n**Q: Can police arrest me without warrant?**\nA: Only in cognizable offenses (serious crimes). They must inform you of grounds, let you contact lawyer, produce you before magistrate within 24 hours.\n\n**Q: What if I can't afford a lawyer?**\nA: Legal aid is your right under Article 39A (DPSP). Every High Court and district has Legal Services Authority providing free lawyers to poor people.\n\n**Q: Can I be forced to sing National Anthem?**\nA: No. Supreme Court (2017) said it's not mandatory in cinema halls. But willful prevention or insult is punishable.\n\n**Q: Do Fundamental Rights apply in private disputes?**\nA: Generally no - they protect against State action. But concept of 'State' is broad, includes government companies, authorities. Private entities can't directly violate them, but laws can regulate private conduct.",
+          "remember": "Fundamental Rights are your constitutional shield. Know them, use them, but also respect others' rights. With rights come responsibilities!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which right did the Supreme Court recognize in 2017 that wasn't explicitly mentioned before?",
+          "options": ["Right to food", "Right to privacy", "Right to internet", "Right to work"],
+          "correct": 1
+        },
+        {
+          "question": "If you are arrested, police must produce you before magistrate within how many hours?",
+          "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+          "correct": 1
+        }
+      ]
+    }
+  },
+  "fundamental-duties": {
+    "level1": {
+      "title": "Fundamental Duties - What We Should Do as Citizens",
+      "sections": [
+        {
+          "heading": "What are Fundamental Duties?",
+          "content": "Fundamental Duties are things every Indian citizen should do to be a good citizen. They are like promises we make to our country!",
+          "example": "Just like you have responsibilities at home (keeping your room clean, helping parents), you have duties as an Indian citizen too!"
+        },
+        {
+          "heading": "Our Main Duties",
+          "content": "**1. Respect the Flag and Anthem** - Stand straight during National Anthem\n\n**2. Follow the Constitution** - Obey the rules of our country\n\n**3. Protect the Country** - Be ready to help India when needed\n\n**4. Be Kind to Everyone** - Don't fight based on religion or language\n\n**5. Take Care of Nature** - Don't litter, plant trees, save water\n\n**6. Don't Damage Public Property** - Parks, buses, schools belong to everyone\n\n**7. Parents: Send Children to School** - Every child should study",
+          "remember": "There are 11 Fundamental Duties. They remind us that with rights come responsibilities!"
+        },
+        {
+          "heading": "How to Follow These Duties?",
+          "content": "**At School:**\n- Stand respectfully during assembly\n- Take care of school property\n- Help classmates\n\n**At Home:**\n- Save water and electricity\n- Segregate garbage\n\n**Outside:**\n- Don't litter\n- Respect traffic signals\n- Be polite to everyone",
+          "example": "When you throw trash in dustbin instead of on road, you're performing your Fundamental Duty of keeping India clean!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many Fundamental Duties are there?",
+          "options": ["9", "10", "11", "12"],
+          "correct": 2
+        },
+        {
+          "question": "Which duty says we should protect nature?",
+          "options": ["Duty 5", "Duty 7", "Duty 9", "Duty 11"],
+          "correct": 1
+        }
+      ]
+    },
+    "level2": {
+      "title": "Fundamental Duties - Citizen's Moral Obligations",
+      "sections": [
+        {
+          "heading": "Introduction to Fundamental Duties",
+          "content": "Fundamental Duties were added to the Constitution by the 42nd Amendment in 1976, based on the recommendations of the Swaran Singh Committee. Inspired by the erstwhile USSR Constitution, these duties represent moral obligations of citizens towards the nation.",
+          "infographic": {
+            "title": "Fundamental Duties at a Glance",
+            "items": [
+              {
+                "icon": "📜",
+                "title": "Total Duties",
+                "value": "11",
+                "description": "Article 51A lists all duties"
+              },
+              {
+                "icon": "📅",
+                "title": "Year Added",
+                "value": "1976",
+                "description": "42nd Amendment Act"
+              },
+              {
+                "icon": "⚖️",
+                "title": "Nature",
+                "value": "Non-Justiciable",
+                "description": "Cannot be enforced by courts"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "The 11 Fundamental Duties",
+          "content": "**1. Respect Constitution, Flag, and Anthem**\n- Abide by Constitution and respect its ideals\n- Respect National Flag and National Anthem\n\n**2. Follow Noble Ideals**\n- Cherish ideals that inspired national freedom struggle\n\n**3. Protect Sovereignty and Integrity**\n- Uphold and protect sovereignty, unity and integrity of India\n\n**4. Defend the Country**\n- Defend the country and render national service when called upon\n\n**5. Promote Harmony**\n- Promote harmony and spirit of common brotherhood\n- Transcend religious, linguistic and regional diversities\n- Renounce practices derogatory to women's dignity\n\n**6. Value Heritage**\n- Value and preserve our composite culture and rich heritage\n\n**7. Protect Environment**\n- Protect and improve natural environment (forests, lakes, rivers, wildlife)\n- Have compassion for living creatures\n\n**8. Develop Scientific Temper**\n- Develop scientific temper, humanism and spirit of inquiry\n\n**9. Safeguard Public Property**\n- Safeguard public property and abjure violence\n\n**10. Strive for Excellence**\n- Strive towards excellence in all spheres\n\n**11. Provide Education (Added 2002)**\n- Parents/guardians provide opportunities for education to children 6-14 years",
+          "keyPoints": [
+            "Article 51A contains all Fundamental Duties",
+            "11th duty added by 86th Amendment (2002)",
+            "Non-justiciable but can guide courts in interpretation",
+            "Inspired by USSR Constitution"
+          ]
+        },
+        {
+          "heading": "Practical Implementation",
+          "content": "**Environmental Protection:**\n- Plastic ban in several states\n- Swachh Bharat Abhiyan\n- Wildlife protection laws\n\n**Scientific Temper:**\n- Anti-superstition laws in some states\n- Promotion of rational thinking\n\n**Public Property:**\n- Laws against vandalism\n- Penalties for damaging public assets\n\n**Education:**\n- RTE Act makes parent's duty enforceable\n- Penalizes non-enrollment of children",
+          "example": "During CAA protests (2019-20), Supreme Court emphasized duty to abjure violence and protect public property when condemning vandalism."
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which Amendment added Fundamental Duties?",
+          "options": ["24th", "42nd", "44th", "52nd"],
+          "correct": 1
+        },
+        {
+          "question": "Which duty was added in 2002?",
+          "options": ["Protect environment", "Develop scientific temper", "Provide education to children", "Respect the flag"],
+          "correct": 2
+        }
+      ]
+    },
+    "level3": {
+      "title": "Fundamental Duties - Article 51A Analysis",
+      "sections": [
+        {
+          "heading": "Constitutional Framework",
+          "content": "Fundamental Duties are enshrined in Part IV-A (Article 51A) of the Constitution, inserted by the 42nd Constitutional Amendment Act, 1976, on recommendations of the Swaran Singh Committee.\n\n**Key Characteristics:**\n- Non-justiciable (not enforceable through courts)\n- Moral and civic obligations\n- Can be used as interpretative tool by courts\n- Applicable to citizens only (not aliens)\n\n**Source:**\n- Inspired by Article 51 of the erstwhile USSR Constitution\n- Concept exists in constitutions of China, Japan, Russia\n\n**Legal Status:**\n- Courts can consider duties while interpreting Fundamental Rights\n- Legislation can be enacted to enforce duties indirectly\n- Violations don't attract legal penalties directly",
+          "timeline": {
+            "title": "Evolution of Fundamental Duties",
+            "events": [
+              {
+                "year": "1976",
+                "title": "42nd Amendment",
+                "description": "Added 10 Fundamental Duties based on Swaran Singh Committee recommendations"
+              },
+              {
+                "year": "2002",
+                "title": "86th Amendment",
+                "description": "Added 11th duty: parents' duty to provide education to children aged 6-14"
+              },
+              {
+                "year": "2015",
+                "title": "Justice Verma Committee",
+                "description": "Recommended adding more duties including voting, paying taxes"
+              }
+            ]
+          }
+        },
+        {
+          "heading": "Detailed Analysis of Each Duty",
+          "content": "**Article 51A(a): Respect Constitution and Institutions**\n- Abide by Constitution\n- Respect National Flag and National Anthem\n- *Implementation:* Prevention of Insults to National Honour Act, 1971\n- *Punishment:* Imprisonment up to 3 years for insulting flag/anthem\n\n**Article 51A(b): Follow Freedom Struggle Ideals**\n- Cherish and follow noble ideals of freedom struggle\n- *Significance:* Links current generation to sacrifices of past\n\n**Article 51A(c): Protect Sovereignty, Unity, Integrity**\n- Uphold and protect sovereignty, unity and integrity\n- *Relevance:* Anti-secession, anti-terrorism measures\n\n**Article 51A(d): Defend Country**\n- Defend country and render national service\n- *Connection:* Justifies compulsory military service if needed\n\n**Article 51A(e): Promote Harmony**\n- Promote harmony and common brotherhood\n- Transcend religious, linguistic, regional diversities\n- Renounce practices derogatory to dignity of women\n- *Laws:* Anti-dowry laws, domestic violence act\n\n**Article 51A(f): Value Composite Culture**\n- Value and preserve rich heritage and composite culture\n- *Implementation:* Ancient Monuments and Archaeological Sites Act\n\n**Article 51A(g): Protect Environment**\n- Protect natural environment (forests, lakes, rivers, wildlife)\n- Compassion for living creatures\n- *Laws:* Wildlife Protection Act, Forest Conservation Act, Environment Protection Act\n- *Case:* M.C. Mehta cases on environmental protection\n\n**Article 51A(h): Scientific Temper**\n- Develop scientific temper, humanism, spirit of inquiry and reform\n- *Significance:* Combat superstition, promote rationality\n- *Example:* Maharashtra's Anti-Superstition Act\n\n**Article 51A(i): Safeguard Public Property**\n- Safeguard public property and abjure violence\n- *Relevance:* Prevention of Damage to Public Property Act, 1984\n\n**Article 51A(j): Strive for Excellence**\n- Strive towards excellence in all spheres\n- *Significance:* Promotes competitive spirit, innovation\n\n**Article 51A(k): Provide Education**\n- Parents/guardians provide opportunities for education to children 6-14\n- *Implementation:* Made enforceable through RTE Act, 2009",
+          "caseStudies": [
+            {
+              "title": "AIIMS Students Union v. AIIMS (2001)",
+              "year": "2001",
+              "background": "Students conducted a prolonged strike affecting patient care. AIIMS took disciplinary action.",
+              "decision": "Supreme Court upheld action, stating that right to strike must be balanced with Fundamental Duty to abjure violence and not harm public interest.",
+              "impact": "Established that Fundamental Duties can limit scope of Fundamental Rights in certain situations.",
+              "keyTakeaway": "Fundamental Duties act as a check on Fundamental Rights when public interest is involved."
+            },
+            {
+              "title": "Aruna Roy v. Union of India (2002)",
+              "year": "2002",
+              "background": "Petition to make voting compulsory as a Fundamental Duty and right to reject candidates.",
+              "decision": "Supreme Court introduced NOTA (None of the Above) option but didn't make voting compulsory.",
+              "impact": "Recognized that while voting is important, making it a duty requires broader consensus.",
+              "keyTakeaway": "Not all civic responsibilities can be constitutionally mandated as duties."
+            }
+          ]
+        },
+        {
+          "heading": "Relationship with Fundamental Rights",
+          "content": "**Complementary Nature:**\n- Rights without duties lead to chaos\n- Duties without rights lead to oppression\n- Constitution balances both\n\n**Judicial Interpretation:**\n- Courts use duties to interpret rights\n- Example: Right to free speech (Art 19) balanced with duty to abjure violence (Art 51A)\n\n**Enforceability:**\n- Rights are justiciable (directly enforceable)\n- Duties are non-justiciable (moral obligations)\n- However, laws can be made to enforce duties indirectly\n\n**Examples of Balance:**\n- Right to education (Art 21A) + Duty to provide education (Art 51A(k))\n- Right to freedom (Art 19) + Duty to safeguard public property (Art 51A(i))\n- Right to environment (Art 21 expanded) + Duty to protect environment (Art 51A(g))",
+          "keyPoints": [
+            "Fundamental Duties are not enforceable by writs",
+            "They can be enforced through ordinary legislation",
+            "Courts consider them while interpreting rights and laws",
+            "Criticism: Vague, difficult to enforce, lacks teeth"
+          ]
+        }
+      ],
+      "quiz": [
+        {
+          "question": "Which committee recommended Fundamental Duties?",
+          "options": ["Santhanam Committee", "Swaran Singh Committee", "Verma Committee", "Sarkaria Committee"],
+          "correct": 1
+        },
+        {
+          "question": "Which Act implements the duty to safeguard public property?",
+          "options": ["Public Property Act 1980", "Prevention of Damage to Public Property Act 1984", "Public Safety Act 1990", "None"],
+          "correct": 1
+        }
+      ]
+    },
+    "level4": {
+      "title": "Fundamental Duties - Every Citizen's Responsibility",
+      "sections": [
+        {
+          "heading": "Why Fundamental Duties Matter to You",
+          "content": "Fundamental Duties aren't just lines in the Constitution - they're reminders that being a citizen isn't just about claiming rights, but also about fulfilling responsibilities.\n\n**Why Should You Care:**\n- Strong democracies need responsible citizens\n- Your actions affect society\n- Rights and duties go hand-in-hand\n- Sets example for others",
+          "example": "Think of society as a group project. If everyone only takes (rights) but nobody contributes (duties), the project fails. But when everyone does their part, everyone benefits!"
+        },
+        {
+          "heading": "Your Duties in Simple Terms",
+          "content": "**1. Respect Constitution, Flag, Anthem**\n- Stand during National Anthem\n- Don't insult national symbols\n- *Why it matters:* Shows respect for nation\n\n**2. Follow Freedom Struggle Ideals**\n- Remember sacrifices of freedom fighters\n- Practice values like non-violence, unity\n\n**3. Protect India's Unity**\n- Don't spread hatred between communities\n- Stand against forces dividing India\n\n**4. Be Ready to Help Country**\n- In times of crisis (war, disasters), contribute\n- *Example:* Donating during COVID-19\n\n**5. Promote Harmony**\n- Respect all religions, languages, regions\n- Don't discriminate\n- Respect women's dignity\n\n**6. Preserve Culture and Heritage**\n- Visit monuments, appreciate history\n- Don't vandalize heritage sites\n\n**7. Protect Environment**\n- Don't litter, plant trees, save water\n- Be kind to animals\n- *Impact:* Cleaner India for future generations\n\n**8. Develop Scientific Thinking**\n- Question superstitions\n- Think logically, seek evidence\n- *Benefit:* Avoid fraud, make better decisions\n\n**9. Don't Damage Public Property**\n- Buses, parks, roads belong to all\n- Vandalism wastes taxpayer money\n\n**10. Strive for Excellence**\n- Do your best in whatever you do\n- Continuous improvement\n\n**11. Parents: Educate Your Children**\n- Send kids to school (6-14 years)\n- Support their education",
+          "keyPoints": [
+            "These aren't legally enforceable (you won't be jailed)",
+            "But they're morally important",
+            "Some are enforced through other laws",
+            "Society works better when everyone follows them"
+          ]
+        },
+        {
+          "heading": "Real-World Applications",
+          "content": "**Environment Duty in Action:**\n- Plastic ban in many states\n- Swachh Bharat campaign\n- River cleaning drives\n- *Your role:* Use cloth bags, segregate waste\n\n**Scientific Temper:**\n- Fighting COVID-19 misinformation\n- Avoiding fake health remedies\n- Fact-checking before sharing\n- *Recent:* Social media literacy campaigns\n\n**Public Property:**\n- Metro coaches vandalized during protests cost crores\n- Your taxes pay for repairs\n- *Impact:* Less money for development\n\n**Harmony and No Discrimination:**\n- Anti-CAA protests (2019-20): Duty to protest peacefully\n- COVID-19: Don't blame/attack healthcare workers\n- Workplace: Gender equality, respect for all\n\n**Education:**\n- RTE Act makes this duty enforceable\n- Parents who don't send kids to school can face action",
+          "example": "**During COVID-19 pandemic:**\n- Wearing masks = Duty to protect environment (indirectly public health)\n- Not spreading fake cures = Scientific temper\n- Helping neighbors = Harmony and brotherhood\n- Respecting doctors/police = Abjuring violence against frontline workers"
+        },
+        {
+          "heading": "Common Questions",
+          "content": "**Q: Can I be punished for not following these duties?**\nA: Not directly. Fundamental Duties aren't enforceable in court. However, some duties are enforced through separate laws (like education, damaging public property).\n\n**Q: If I don't stand for National Anthem, what happens?**\nA: There's a law (Prevention of Insults to National Honour Act) that can punish deliberate insult. But courts have clarified it's not mandatory in cinema halls (2017 judgment).\n\n**Q: Are Fundamental Duties only for Indian citizens?**\nA: Yes, unlike some Fundamental Rights that apply to all persons, duties apply only to citizens.\n\n**Q: Why aren't Fundamental Duties enforceable like Rights?**\nA: Rights protect individuals from state power. Duties are meant as moral compass, not legal requirements. Making them all enforceable could be seen as state overreach.\n\n**Q: Should voting be a Fundamental Duty?**\nA: There's debate. Some say yes (democracy needs participation). Others say forced voting isn't democratic. Currently not a duty.\n\n**Q: Can these duties change?**\nA: Yes, Parliament can amend. In fact, 11th duty was added in 2002. Experts have suggested adding more (voting, paying taxes, etc.)",
+          "remember": "Rights and duties are two sides of the same coin. Enjoy your rights, but don't forget your duties. That's what makes a responsible citizen!"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "How many Fundamental Duties does India have?",
+          "options": ["9", "10", "11", "12"],
+          "correct": 2
+        },
+        {
+          "question": "In which year was the latest Fundamental Duty added?",
+          "options": ["1976", "1984", "2002", "2010"],
+          "correct": 2
+        }
+      ]
+    }
+  }
+}

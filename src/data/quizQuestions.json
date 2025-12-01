@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "When was the Constitution of India adopted?",
+    "options": ["26th January 1950", "26th November 1949", "15th August 1947", "26th January 1949"],
+    "correct": 1,
+    "difficulty": "easy",
+    "explanation": "The Constitution was adopted on 26th November 1949 and came into effect on 26th January 1950."
+  },
+  {
+    "id": 2,
+    "question": "How many Fundamental Rights are guaranteed by the Indian Constitution?",
+    "options": ["5", "6", "7", "8"],
+    "correct": 1,
+    "difficulty": "easy",
+    "explanation": "Originally 7, now 6 Fundamental Rights after the Right to Property was removed as a fundamental right in 1978."
+  },
+  {
+    "id": 3,
+    "question": "Which Article guarantees the Right to Education?",
+    "options": ["Article 19", "Article 21", "Article 21A", "Article 32"],
+    "correct": 2,
+    "difficulty": "medium",
+    "explanation": "Article 21A, inserted by the 86th Amendment in 2002, makes education a fundamental right for children aged 6-14."
+  },
+  {
+    "id": 4,
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Dr. B.R. Ambedkar", "Sardar Patel"],
+    "correct": 2,
+    "difficulty": "easy",
+    "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee and is called the Father of the Indian Constitution."
+  },
+  {
+    "id": 5,
+    "question": "What does 'Secular' mean in the Preamble?",
+    "options": ["Government supports all religions", "No official state religion", "Only Hindu religion", "Religious freedom only"],
+    "correct": 1,
+    "difficulty": "medium",
+    "explanation": "Secular means the state has no official religion and treats all religions equally."
+  },
+  {
+    "id": 6,
+    "question": "How many members are there in the Rajya Sabha?",
+    "options": ["245", "250", "238", "Not more than 250"],
+    "correct": 3,
+    "difficulty": "hard",
+    "explanation": "The Rajya Sabha can have not more than 250 members (238 elected + 12 nominated by the President)."
+  },
+  {
+    "id": 7,
+    "question": "Which Fundamental Right protects against exploitation?",
+    "options": ["Article 14", "Article 19", "Article 23-24", "Article 32"],
+    "correct": 2,
+    "difficulty": "medium",
+    "explanation": "Articles 23-24 protect against exploitation including prohibition of traffic in human beings and child labor."
+  },
+  {
+    "id": 8,
+    "question": "The Directive Principles of State Policy are borrowed from which country's constitution?",
+    "options": ["USA", "UK", "Ireland", "Canada"],
+    "correct": 2,
+    "difficulty": "hard",
+    "explanation": "The Directive Principles are borrowed from the Irish Constitution."
+  },
+  {
+    "id": 9,
+    "question": "Which Article abolished Untouchability?",
+    "options": ["Article 14", "Article 15", "Article 17", "Article 21"],
+    "correct": 2,
+    "difficulty": "medium",
+    "explanation": "Article 17 abolishes untouchability and forbids its practice in any form."
+  },
+  {
+    "id": 10,
+    "question": "How many Fundamental Duties are mentioned in the Constitution?",
+    "options": ["9", "10", "11", "12"],
+    "correct": 2,
+    "difficulty": "easy",
+    "explanation": "There are 11 Fundamental Duties added by the 42nd and 86th Constitutional Amendments."
+  },
+  {
+    "id": 11,
+    "question": "The word 'Socialist' was added to the Preamble by which amendment?",
+    "options": ["42nd", "44th", "52nd", "86th"],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "The 42nd Amendment in 1976 added 'Socialist' and 'Secular' to the Preamble."
+  },
+  {
+    "id": 12,
+    "question": "Which is called the 'Soul of the Constitution'?",
+    "options": ["Fundamental Rights", "Preamble", "Directive Principles", "Fundamental Duties"],
+    "correct": 1,
+    "difficulty": "easy",
+    "explanation": "The Preamble is considered the soul of the Constitution as it embodies its spirit and philosophy."
+  },
+  {
+    "id": 13,
+    "question": "The President of India is elected by?",
+    "options": ["Direct election by people", "Electoral College", "Parliament only", "State Legislatures only"],
+    "correct": 1,
+    "difficulty": "medium",
+    "explanation": "The President is elected by an Electoral College consisting of elected members of both Houses of Parliament and State Legislative Assemblies."
+  },
+  {
+    "id": 14,
+    "question": "Which Article provides for the establishment of the Finance Commission?",
+    "options": ["Article 280", "Article 300", "Article 356", "Article 370"],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Article 280 provides for a Finance Commission to be constituted every five years."
+  },
+  {
+    "id": 15,
+    "question": "The maximum strength of Lok Sabha is?",
+    "options": ["530", "545", "550", "552"],
+    "correct": 3,
+    "difficulty": "medium",
+    "explanation": "The maximum strength of Lok Sabha is 552 (530 from states + 20 from UTs + 2 Anglo-Indians nominated)."
+  }
+]

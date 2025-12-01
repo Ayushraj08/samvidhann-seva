@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "statement": "Equality before law",
+    "type": "right",
+    "article": "Article 14"
+  },
+  {
+    "id": 2,
+    "statement": "To protect public property",
+    "type": "duty",
+    "article": "Article 51A"
+  },
+  {
+    "id": 3,
+    "statement": "Freedom of speech and expression",
+    "type": "right",
+    "article": "Article 19(1)(a)"
+  },
+  {
+    "id": 4,
+    "statement": "To abide by the Constitution and respect the National Flag",
+    "type": "duty",
+    "article": "Article 51A"
+  },
+  {
+    "id": 5,
+    "statement": "Right to practice any profession",
+    "type": "right",
+    "article": "Article 19(1)(g)"
+  },
+  {
+    "id": 6,
+    "statement": "To promote harmony and brotherhood",
+    "type": "duty",
+    "article": "Article 51A"
+  },
+  {
+    "id": 7,
+    "statement": "Right to Constitutional Remedies",
+    "type": "right",
+    "article": "Article 32"
+  },
+  {
+    "id": 8,
+    "statement": "To safeguard public property and abjure violence",
+    "type": "duty",
+    "article": "Article 51A"
+  },
+  {
+    "id": 9,
+    "statement": "Right against exploitation",
+    "type": "right",
+    "article": "Articles 23-24"
+  },
+  {
+    "id": 10,
+    "statement": "To develop scientific temper and spirit of inquiry",
+    "type": "duty",
+    "article": "Article 51A"
+  },
+  {
+    "id": 11,
+    "statement": "Freedom of assembly",
+    "type": "right",
+    "article": "Article 19(1)(b)"
+  },
+  {
+    "id": 12,
+    "statement": "To protect and improve the natural environment",
+    "type": "duty",
+    "article": "Article 51A"
+  }
+]
